@@ -1,2 +1,2 @@
 # Quizller
-Test your knowledge
+Test your knowledge about random fields
